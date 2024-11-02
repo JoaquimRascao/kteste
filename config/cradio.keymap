@@ -72,7 +72,7 @@
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
         //│  \ |     │          │          │          │          │   │  + *     │ ´ `      │  ~ ^     │  º ª     │  ' ?     │
-            &mt PIPE BACKSLASH  &trans &trans  &trans   &trans         &mt MULTIPLY PLUS   &kp GRAVE ACCENT   &mt CARET TILDE   &trans   &mt QUESTION MARK APOSTROPHE    
+            &mt PIPE BACKSLASH  &trans &trans  &trans   &trans         &mt MULTIPLY PLUS   &kp GRAVE ACCENT   &kp CARET   &trans   &mt QUESTION MARK APOSTROPHE    
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  !       │  " @     │  #       │  $       │  %       │   │  &       │  / {     │  ( [     │  ) ]     │  = }     │
             &kp EXCLAMATION   &mt AT SIGN QUOTE (DOUBLE)   &kp HASH  &kp DOLAR   &kp PERCENT   &kp AMPERSAND   &mt LEFT BRACE BACKSLASH   &mt LEFT BRACKER LEFT PARENTHESIS   &mt RIGHT BRACKER RIGHT PARENTHESIS   &mt RIGHT BRACE EQUAL   
